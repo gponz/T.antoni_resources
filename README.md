@@ -1,1 +1,1 @@
-# T.antoni_resources
+# T.antoni_resources is a repository with transcriptomic resources of Typosyllis antoni.
