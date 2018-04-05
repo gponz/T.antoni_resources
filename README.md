@@ -1,1 +1,1 @@
-# This repository contains resources from Ponz Segrelles, G, Bleidorn, C & Aguado MT (in prep) "Towards establishing the syllid Typosyllis antoni (Annelida) as a model for evo-devo"
+# This repository contains resources from Ponz Segrelles, G, Bleidorn, C & Aguado MT (in prep) "Expression of vasa, piwi, and nanos during gametogenesis in Typosyllis antoni (Annelida, Syllidae)"
